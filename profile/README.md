@@ -34,7 +34,7 @@ This is my github organization for all finished exams, tasks and courses I compl
 
 ##### Fourth Semester
 - [PG5100, Enterprise 1, EKSAMEN](https://github.com/mariestigen-edu/pg5100-enterprise1-eksamen)
-- [PGR208, Android Programmering](https://github.com/mariestigen-edu/pgr208-android-programmering-eksamen)
+- [PGR208, Android Programmering, EKSAMEN](https://github.com/mariestigen-edu/pgr208-android-programmering-eksamen)
 - [PGR6301, Webutvikling & API-design, EKSAMEN](https://github.com/mariestigen-edu/pgr6301-webutvikling-apidesign-eksamen)
 
 
