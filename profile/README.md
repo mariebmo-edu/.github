@@ -26,6 +26,7 @@ This is my github organization for all finished exams, tasks and courses I compl
   - [PGR103, Adjektivfortelling](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-adjektivfortelling) 
   - [PGR103, Trinn 11](https://github.com/mariestigen-edu/pg103-objektorientert-programmering-trinn11) 
   - [PGR112, Eksamen v2022-v1](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-eksamen-v2022-v1) 
+  - [PGR112, Eksamen v2022-v1](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-eksamen-v2022-v2) 
 - [TK2100, Informasjonssikkerhet, EKSAMEN](https://github.com/mariestigen-edu/tk2100-informasjonssikkerhet-eksamen)
 - [PRO104, Webprosjekt, EKSAMEN](https://github.com/mariestigen-edu/pro104-webprosjekt-eksamen)
 
