@@ -42,6 +42,7 @@ This is my github organization for all finished exams, tasks and courses I compl
 
 ##### Fifth Semester
 - PGR301, DevOps i Skyen
+  - [(0) Cloud 9](https://github.com/mariestigen-edu/00-welcome-to-cloud9)
   - [(1) Github Actions](https://github.com/mariestigen-edu/01-CI-Github-actions)
   - [(2) Lambda, SAM](https://github.com/mariestigen-edu/02-lambda-sls-cd-only)
   - [(3) Lambda, SAM, Github Actions, AWS](https://github.com/mariestigen-edu/03-CD-AWS-lamda-sls)
