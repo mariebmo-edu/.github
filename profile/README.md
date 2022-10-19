@@ -40,6 +40,15 @@ This is my github organization for all finished exams, tasks and courses I compl
 - [PGR208, Android Programmering, EKSAMEN](https://github.com/mariestigen-edu/pgr208-android-programmering-eksamen)
 - [PGR6301, Webutvikling & API-design, EKSAMEN](https://github.com/mariestigen-edu/pgr6301-webutvikling-apidesign-eksamen)
 
+##### Fifth Semester
+- PGR301, DevOps i Skyen
+  - [(1) Github Actions](https://github.com/mariestigen-edu/01-CI-Github-actions)
+  - [(2) Lambda, SAM](https://github.com/mariestigen-edu/02-lambda-sls-cd-only)
+  - [(3) Lambda, SAM, Github Actions, AWS](https://github.com/mariestigen-edu/03-CD-AWS-lamda-sls)
+  - [(4) Spring, Docker, DockerHub](https://github.com/mariestigen-edu/04-spring-docker-dockerhub)
+  - [(7) Recap](https://github.com/mariestigen-edu/07-recap)
+  - [(8) Terraform](https://github.com/mariestigen-edu/08-terraform-app-runner)
+
 ---
 
 #### Udemy
