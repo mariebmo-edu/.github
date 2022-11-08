@@ -51,6 +51,7 @@ This is my github organization for all finished exams, tasks and courses I compl
   - [(7) Terraform](https://github.com/mariestigen-edu/08-terraform-app-runner)
   - [(8) Metrics](https://github.com/mariestigen-edu/08-metrics-micrometer)
   - [(9) Terraform CloudWatch](https://github.com/mariestigen-edu/09-terraform-cloudwatch-dashboard)
+  - [(10) Terraform CloudWatch Alarms](https://github.com/mariestigen-edu/10-cloudwatch_alarms_terraform)
 
 ---
 
