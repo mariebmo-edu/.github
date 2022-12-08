@@ -14,31 +14,31 @@ This is my github organization for all finished exams, tasks and courses I compl
 #### Høyskolen Kristiania - Programmering
 
 ##### First Semester
-- [PGR103, Kreativt Webprosjekt, EKSAMEN](https://github.com/mariestigen-edu/pro105-kreativt-webprosjekt-Eksamen)
+- [PGR103, Kreativt Webprosjekt, EKSAMEN](https://github.com/mariestigen-edu/pro105-kreativt-webprosjekt-Eksamen) (A)
   - [PGR103, ARBEIDSKRAV](https://github.com/mariestigen-edu/pro105-kreativt-webprosjekt-arbeidskrav)
-- [PGR102, Intro til Programmering, EKSAMEN](https://github.com/mariestigen-edu/pgr102-intro-til-programmering-eksamen)
+- [PGR102, Intro til Programmering, EKSAMEN](https://github.com/mariestigen-edu/pgr102-intro-til-programmering-eksamen) (Godkjent)
   - [PGR102, ARBEIDSKRAV](https://github.com/mariestigen-edu/pgr102-intro-til-programmering-arbeidskrav)
-- [TK1104, Digital Teknologi, EKSAMEN](https://github.com/mariestigen-edu/tk1104-digital-teknologi-eksamen)
-- [DB1102, Databaser, EKSAMEN](https://github.com/mariestigen-edu/db1102-databaser-eksamen)
+- [TK1104, Digital Teknologi, EKSAMEN](https://github.com/mariestigen-edu/tk1104-digital-teknologi-eksamen) (A)
+- [DB1102, Databaser, EKSAMEN](https://github.com/mariestigen-edu/db1102-databaser-eksamen) (A)
 
 ##### Second Semester
-- [PGR103, Objektorientert Programmering, EKSAMEN](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-eksamen)
+- [PGR103, Objektorientert Programmering, EKSAMEN](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-eksamen) (Godkjent) 
   - [PGR103, Adjektivfortelling](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-adjektivfortelling) 
   - [PGR103, Trinn 11](https://github.com/mariestigen-edu/pg103-objektorientert-programmering-trinn11) 
   - [PGR112, Eksamen v2022-v1](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-eksamen-v2022-v1) 
   - [PGR112, Eksamen v2022-v2](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-eksamen-v2022-v2) 
-- [TK2100, Informasjonssikkerhet, EKSAMEN](https://github.com/mariestigen-edu/tk2100-informasjonssikkerhet-eksamen)
-- [PRO104, Webprosjekt, EKSAMEN](https://github.com/mariestigen-edu/pro104-webprosjekt-eksamen)
+- [TK2100, Informasjonssikkerhet, EKSAMEN](https://github.com/mariestigen-edu/tk2100-informasjonssikkerhet-eksamen) (Godkjent)
+- [PRO104, Webprosjekt, EKSAMEN](https://github.com/mariestigen-edu/pro104-webprosjekt-eksamen) (Godkjent)
 
 ##### Third Semester
-- [PG3302, Software Design, EKSAMEN](https://github.com/mariestigen-edu/pg3302-software-design-eksamen)
-- [PG4200, Algoritmer og Datastrukturer, EKSAMEN](https://github.com/mariestigen-edu/pg4200-algoritmer-og-datastrukturer-eksamen)
-- [PGR203, Avansert Java, EKSAMEN](https://github.com/mariestigen-edu/pgr203-avansert-java-eksamen)
+- [PG3302, Software Design, EKSAMEN](https://github.com/mariestigen-edu/pg3302-software-design-eksamen) (A)
+- [PG4200, Algoritmer og Datastrukturer, EKSAMEN](https://github.com/mariestigen-edu/pg4200-algoritmer-og-datastrukturer-eksamen) (A)
+- [PGR203, Avansert Java, EKSAMEN](https://github.com/mariestigen-edu/pgr203-avansert-java-eksamen) (B)
 
 ##### Fourth Semester
-- [PG5100, Enterprise 1, EKSAMEN](https://github.com/mariestigen-edu/pg5100-enterprise1-eksamen)
-- [PGR208, Android Programmering, EKSAMEN](https://github.com/mariestigen-edu/pgr208-android-programmering-eksamen)
-- [PGR6301, Webutvikling & API-design, EKSAMEN](https://github.com/mariestigen-edu/pgr6301-webutvikling-apidesign-eksamen)
+- [PG5100, Enterprise 1, EKSAMEN](https://github.com/mariestigen-edu/pg5100-enterprise1-eksamen) (A)
+- [PGR208, Android Programmering, EKSAMEN](https://github.com/mariestigen-edu/pgr208-android-programmering-eksamen) (A)
+- [PGR6301, Webutvikling & API-design, EKSAMEN](https://github.com/mariestigen-edu/pgr6301-webutvikling-apidesign-eksamen) (A)
 
 ##### Fifth Semester
 - PGR301, DevOps i Skyen
