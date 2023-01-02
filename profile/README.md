@@ -41,7 +41,7 @@ This is my github organization for all finished exams, tasks and courses I compl
 - [PGR6301, Webutvikling & API-design, EKSAMEN](https://github.com/mariestigen-edu/pgr6301-webutvikling-apidesign-eksamen) (A)
 
 ##### Fifth Semester
-- [PGR301, DevOps i Skyen, EKSAMEN](https://github.com/mariestigen-edu/pg301-devops-i-skyen-eksamen)
+- [PGR301, DevOps i Skyen, EKSAMEN](https://github.com/mariestigen-edu/pg301-devops-i-skyen-eksamen) (A)
   - [(0) Cloud 9](https://github.com/mariestigen-edu/00-welcome-to-cloud9)
   - [(1) Github Actions](https://github.com/mariestigen-edu/01-CI-Github-actions)
   - [(2) Lambda, SAM](https://github.com/mariestigen-edu/02-lambda-sls-cd-only)
