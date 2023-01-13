@@ -53,6 +53,7 @@ This is my github organization for all finished exams, tasks and courses I compl
   - [(9) Terraform CloudWatch](https://github.com/mariestigen-edu/09-terraform-cloudwatch-dashboard)
   - [(10) Terraform CloudWatch Alarms](https://github.com/mariestigen-edu/10-cloudwatch_alarms_terraform)
 - [PG6102, Enterprise 2, EKSAMEN](https://github.com/mariestigen-edu/pg6102-enterprise2-eksamen) (A)
+- [PG3401, Programmering i C for Linux, EKSAMEN](https://github.com/mariestigen-edu/pg3401-c-for-linux-eksamen) (B)
 
 ---
 
