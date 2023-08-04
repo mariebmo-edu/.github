@@ -28,6 +28,7 @@ This is my github organization for all finished exams, tasks and courses I compl
   - [PGR112, Eksamen v2022-v1](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-eksamen-v2022-v1) 
   - [PGR112, Eksamen v2022-v2](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-eksamen-v2022-v2)
   - [PGR112, Konteeksamen h2022](https://github.com/mariestigen-edu/pgr103-objektorientert-programmering-konteeksamen-h2022)
+  - [PG113, Eksamen v2023 OBS!! Ikke ferdig](https://github.com/mariestigen-edu/PGR112-objektorientert-programmering-eksamen-v2023)
 - [TK2100, Informasjonssikkerhet, EKSAMEN](https://github.com/mariestigen-edu/tk2100-informasjonssikkerhet-eksamen) (Godkjent)
 - [PRO104, Webprosjekt, EKSAMEN](https://github.com/mariestigen-edu/pro104-webprosjekt-eksamen) (Godkjent)
 
