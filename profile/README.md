@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?mariestigen-edu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=mariestigen-edu)
 
 # Marie Stigen - Educational
 
