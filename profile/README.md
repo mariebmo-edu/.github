@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?mariestigen-edu)
+
 # Marie Stigen - Educational
 
 ### Hi there 👋
