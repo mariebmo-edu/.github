@@ -1,5 +1,3 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=mariestigen-edu)
-
 # Marie Stigen - Educational
 
 ### Hi there 👋
