@@ -1,4 +1,4 @@
-# Marie Stigen - Educational
+# Marie Blichfeldt Mo - Educational
 
 ### Hi there 👋
 
